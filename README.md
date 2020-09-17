@@ -16,16 +16,26 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 - [ ] Make your site live on gh-pages
 - [ ] Submit your website using the link on the Agenda
 
-### HTML/JavaScript
+### HTML
 - [ ] Create a div to display your songs
+
+### JavaScript
 - [ ] Create an array to store your song names
-- [ ] Create a loop to display your song names
 - [ ] Repeat these steps for song artist, song length, image, and link
 
-#### Wrap
+### Wrap
 - [ ] Push your changes!
 
 ## Day 2
+
+### JavaScript
+- [ ] Create a loop to display your song names
+- [ ] Repeat these steps for song artist, song length, image, and link
+
+### Wrap
+- [ ] Push your changes!
+
+## Day 3
 
 ## JavaScript
 - [ ] Add song information to your list using .push()
@@ -34,7 +44,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 #### Wrap
 - [ ] Push your changes!
 
-## Day 3
+## Day 4
 
 ## JavaScript
 - [ ] Comment out your code that refers to arrays
@@ -44,7 +54,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 #### Wrap
 - [ ] Push your changes!
 
-## Day 4
+## Day 5
 
 ## JavaScript
 
