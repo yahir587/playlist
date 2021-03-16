@@ -1,7 +1,7 @@
 # Playlist Project
 
 ## Overview:
-In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays to hold song information, use a forEach loop to iterate over the arrays, and display data to the screen. They will use .push to add new songs to their playlist. Then, students will refactor their project to using objects instead of arrays to hold their data.
+In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays to hold song information, use a for of loop to iterate over the arrays, and display data to the screen. They will use .push to add new songs to their playlist. Then, students will refactor their project to using objects instead of arrays to hold their data.
 
 ## Day 1
 
@@ -9,9 +9,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 - [ ] Complete the project planning document.
 #### Set-Up
 - [x] Go to the repository
-- [ ] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [ ] Fork this repository to your github account and import to a new workspace
 - [ ] Submit your website using the link on the Agenda
 
 ### HTML
