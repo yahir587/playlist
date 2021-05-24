@@ -29,7 +29,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 ### Day 1 Goal 3: Write the code to store the rest of your song information in JavaScript
 
-- [ ] Create and populate arrays to store your song artists, song lengths, images, and links.
+- [ ] Create and populate arrays to store your song artists, images, and links.
 
 #### Wrap
 
@@ -43,7 +43,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 ### Day 2 Goal 2: Write the code to display the rest of your song information
 
-- [ ] Create loops that loop through your song artists, song lengths, images, and links arrays and display the information in the correct divs.
+- [ ] Create loops that loop through your song artists, images, and links arrays and display the information in the correct divs.
 
 #### Wrap
 
@@ -71,7 +71,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 - [ ] Comment out your arrays
 - [ ] Create an Object for each of your songs
-- [ ] Inside each Object, add key/value pairs to store the title, artist, song length, image, and link
+- [ ] Inside each Object, add key/value pairs to store the title, artist,image, and link
 - [ ] Store all your Objects in one array
 
 #### Wrap
